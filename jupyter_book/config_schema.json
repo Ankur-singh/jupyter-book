@@ -92,6 +92,9 @@
                 "favicon": {
                     "type": "string"
                 },
+                "use_download_button": {
+                    "type": "boolean"
+                },
                 "use_edit_page_button": {
                     "type": "boolean"
                 },
