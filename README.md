@@ -35,3 +35,11 @@ the [Executable Book Project](https://executablebooks.org).
 
 [pypi-badge]: https://img.shields.io/pypi/v/jupyter-book.svg
 [pypi-link]: https://pypi.org/project/jupyter-book
+
+## Updates
+- Toggle download button on/off
+
+## Installation
+```bash
+pip install git+https://github.com/Ankur-singh/jupyter-book.git
+```
